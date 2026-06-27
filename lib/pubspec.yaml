@@ -1,0 +1,9 @@
+name: flutter_ai_agent
+description: A Flutter app with Gemini AI agent
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
